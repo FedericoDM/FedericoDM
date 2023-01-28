@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 
+-  I am currently working on my MS in Computational Analysis and Public Policy at The University of Chicago
+-  I also work as a Data Scientist on a wide variety of projects (from Web Scraping to Unsupervised Machine Learning).
+
+
+
 - 🔭 My skills are: Python, R, AWS and GitHub.
 - 💬 Proficient in: Webscraping, Data Manipulation, Machine Learning
 - 🌱 Currently working on: Unstructured Data Analysis, Parallel Programming, Design Patterns.
