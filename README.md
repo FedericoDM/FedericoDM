@@ -11,6 +11,16 @@
 - 🌱 Currently working on: Unstructured Data Analysis, Parallel Programming, Design Patterns.
 
 
+Some of the projects that I have worked on, among others, are:
+
+- Design webscraping pipelines to visualize goods' prices over time.
+- Supervised Machine Learning to predict price changes over time.
+- Unsupervised Machine Learning to create recommender systems.
+- Real time media alerts.
+
+
+![FedericoDM's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedericoDM&show_icons=true&theme=transparent)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FedericoDM&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
