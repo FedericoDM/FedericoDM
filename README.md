@@ -19,7 +19,7 @@ Some of the projects that I have worked on, among others, are:
 - Real time media alerts.
 
 
-![FedericoDM's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedericoDM&show_icons=true&theme=slateorange&count_private=true)
+![FedericoDM's GitHub stats](https://github-readme-stats.vercel.app/api?username=FedericoDM&show_icons=true&theme=codeSTACKr&count_private=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FedericoDM&theme=dark&background=000000)](https://git.io/streak-stats)
 
