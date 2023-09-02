@@ -6,7 +6,7 @@
 
 
 
-- 🛠️: My skills are: Python, R, AWS and GitHub.
+- 🛠️: My skills are: Python, SQL, R, AWS and GitHub.
 - ⭐: Proficient in: Webscraping, Data Manipulation, Machine Learning
 - 📖 Currently working on: Unstructured Data Analysis, Parallel Programming, Design Patterns.
 
