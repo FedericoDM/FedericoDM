@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hello, I'm Federico 👋
 
-
--  I am currently working on my MS in Computational Analysis and Public Policy at The University of Chicago
--  I also work as a Data Scientist on a wide variety of projects (from Web Scraping to Unsupervised Machine Learning).
-
+I am currently working on my MS in Computational Analysis and Public Policy at The University of Chicago. I also work as a Data Scientist on a wide variety of projects (from Web Scraping to Unsupervised Machine Learning).
 
 
 - 🛠️: My skills are: Python, SQL, R, AWS and GitHub.
