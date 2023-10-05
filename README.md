@@ -5,7 +5,7 @@ I am currently working on my MS in Computational Analysis and Public Policy at T
 
 - 🛠️: My skills are: Python, SQL, R, AWS and GitHub.
 - ⭐: Proficient in: Webscraping, Data Manipulation, Machine Learning
-- 📖 Currently working on: Unstructured Data Analysis, Parallel Programming, Design Patterns.
+- 📖 Currently working on: Natural Language Processing and AWS.
 
 
 Some of the projects that I have worked on, among others, are:
