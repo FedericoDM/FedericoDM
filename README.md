@@ -1,6 +1,6 @@
 ### Hello, I'm Federico 👋
 
-I am currently working on my MS in Computational Analysis and Public Policy at The University of Chicago. I also work as a Data Scientist on a wide variety of projects, including webscraping, supervised and unsupervised maxchine learning models, data visualization and process automation. I also have designed the underlying AWS architecture in most of the projects I have worked.
+I am currently working on my MS in Computational Analysis and Public Policy at The University of Chicago. I also work as a Data Scientist on a wide variety of projects, including webscraping, supervised and unsupervised ML models, data visualization and process automation. I also have designed the underlying AWS architecture in most of the projects I have worked.
 
 - 🛠️: My skills are: Python, SQL, R, AWS and GitHub.
 - ⭐: Proficient in: Webscraping, Data Manipulation, Machine Learning
