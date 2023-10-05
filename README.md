@@ -17,10 +17,14 @@ Some of the projects that I have worked on, among others, are:
 
 You can see some of my work on the following repositories:
 
-1) [Streamlit App to extract CO2 emissions data in real time](https://github.com/City-of-Long-Beach-Public/climate_inventory).
-2) [Weekly alert system to manage household expenses via Splitwise's API](https://github.com/FedericoDM/splitwise-household-expenses).
-3) [API extraction codes I have used in other projects](https://github.com/FedericoDM/API-extractions).
-4) [Some webscraping side projects I have previously worked on](https://github.com/FedericoDM/webscraping-sideprojects).
+1) [Streamlit App to extract CO2 emissions data in real time](https://github.com/City-of-Long-Beach-Public/climate_inventory): I worked with the City of Long Beach (CA) to automate their data extraction process from public websites. As a result, I created a Streamlit app that allows them to select the website they want and the year of interest. They can also download the data into their local computer.
+     
+3) [Weekly alert system to manage household expenses via Splitwise's API](https://github.com/FedericoDM/splitwise-household-expenses): In pro of managing better our household's budget and expenses, I created a pipeline that extracts our expenses data from the Splitwise API. Then, every week, we get an e-mail that summarizes our expenses for the current month.
+
+  
+5) [API extraction codes I have used in other projects](https://github.com/FedericoDM/API-extractions): You can mostly find some code samples of API extractions I have done in the past for different projects. These range from Financial to Government APIs.
+   
+7) [Some webscraping side projects I have previously worked on](https://github.com/FedericoDM/webscraping-sideprojects): Here, you can find some code I created to extract data from different websites, per different clients' request. In these cases, the main goal was to get and deliver the clean data to the final user.
 
 <!--
 ![FedericoDM's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FedericoDM&show_icons=true&theme=codeSTACKr&count_private=true)
