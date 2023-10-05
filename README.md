@@ -15,6 +15,13 @@ Some of the projects that I have worked on, among others, are:
 - Unsupervised Machine Learning to create recommender systems.
 - Real time media alerts.
 
+You can see some of my work on the following repositories:
+
+1) [Streamlit App to extract CO2 emissions data in real time](https://github.com/City-of-Long-Beach-Public/climate_inventory).
+2) [Weekly alert system to manage household expenses via Splitwise's API](https://github.com/FedericoDM/splitwise-household-expenses).
+3) [API extraction codes I have used in other projects](https://github.com/FedericoDM/API-extractions).
+4) [Some webscraping side projects I have previously worked on](https://github.com/FedericoDM/webscraping-sideprojects).
+
 <!--
 ![FedericoDM's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FedericoDM&show_icons=true&theme=codeSTACKr&count_private=true)
 -->
