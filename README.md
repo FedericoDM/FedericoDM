@@ -20,7 +20,7 @@ You can see some of my work on the following repositories:
      
 2) 💰 [Weekly alert system to manage household expenses via Splitwise's API](https://github.com/FedericoDM/splitwise-household-expenses): In pro of managing better our household's budget and expenses, I created a pipeline that extracts our expenses data from the Splitwise API. Then, every week, we get an e-mail that summarizes our expenses for the current month.
 
-3) :mexico: [Natural Language Processing Analysis of the Mexican's President Daily Conferences](https://github.com/FedericoDM/AMLO-NLP): As part of a class project (and also personal interest), I scraped all of the president's morning conferences and trained a model to assign each conference an 'aggressivity score', based on how hostile he is on the press conference. 
+3) 💬 [Natural Language Processing Analysis of the Mexican's President Daily Conferences](https://github.com/FedericoDM/AMLO-NLP): As part of a class project (and also personal interest), I scraped all of the president's morning conferences and trained a model to assign each conference an 'aggressivity score', based on how hostile he is on the press conference. 
 
 4) 🗺️ [API extraction codes I have used in other projects](https://github.com/FedericoDM/API-extractions): You can mostly find some code samples of API extractions I have done in the past for different projects. These range from Financial to Government APIs.
    
