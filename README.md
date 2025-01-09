@@ -4,7 +4,7 @@ I am currently working as a Data Scientist at the [Energy and Environment Lab](h
 
 I have worked on a wide variety of projects, including webscraping, supervised and unsupervised ML models, data visualization and process automation. I also have designed the underlying AWS architecture in most of the projects I have worked. 
 
-Feel free to take a look at my [resume](https://github.com/FedericoDM/FedericoDM/blob/main/CS%20Resume%20-%20FDM.pdf) and to connect with me via [LinkedIn](https://www.linkedin.com/in/federico-dominguez-molina/).
+Feel free to take a look at my [resume](https://github.com/FedericoDM/FedericoDM/blob/main/Resume_FedericoDominguezMolina.pdf) and to connect with me via [LinkedIn](https://www.linkedin.com/in/federico-dominguez-molina/).
 
 - 🐍: The programming languages I use are: Python, SQL, C and R.
 - ☁️: Cloud Computing Stack: AWS (EC2, Lambda, Route53, SQS).
