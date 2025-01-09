@@ -1,6 +1,8 @@
 ### Hello, I'm Federico 👋
 
-I am currently working on my MS in Computational Analysis and Public Policy at The University of Chicago. I also work as a Data Scientist on a wide variety of projects, including webscraping, supervised and unsupervised ML models, data visualization and process automation. I also have designed the underlying AWS architecture in most of the projects I have worked. 
+I am currently working as a Data Scientist at the [Energy and Environment Lab](https://urbanlabs.uchicago.edu/labs/energy-environment) at the University of Chicago. I obtained my MS in Computational Analysis and Public Policy at the same institution, where I delved deep into Machine Learning, Natural Language Processing and Cloud Computing.
+
+I have worked on a wide variety of projects, including webscraping, supervised and unsupervised ML models, data visualization and process automation. I also have designed the underlying AWS architecture in most of the projects I have worked. 
 
 Feel free to take a look at my [resume](https://github.com/FedericoDM/FedericoDM/blob/main/CS%20Resume%20-%20FDM.pdf) and to connect with me via [LinkedIn](https://www.linkedin.com/in/federico-dominguez-molina/).
 
