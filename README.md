@@ -1,15 +1,19 @@
 ### Hello, I'm Federico 👋
 
-I am currently working as a Data Scientist at the [Energy and Environment Lab](https://urbanlabs.uchicago.edu/labs/energy-environment) at the University of Chicago. I obtained my MS in Computational Analysis and Public Policy at the same institution, where I delved deep into Machine Learning, Natural Language Processing and Cloud Computing.
+I am currently working as a Data Scientist at the [Energy and Environment Lab](https://urbanlabs.uchicago.edu/labs/energy-environment) at the University of Chicago. I previously worked at:
 
-I have worked on a wide variety of projects, including webscraping, supervised and unsupervised ML models, data visualization and process automation. I also have designed the underlying AWS architecture in most of the projects I have worked. 
+- [deep_dive](https://dive.ai/) as a Senior Data Scientist.
+- [Coding it Forward](https://codingitforward.com/) as a Data Engineering Fellow for the City of Long Beach, CA.
+- [UChicago Justice Project](https://justiceproject.uchicago.edu/) as a Data Science Research Assistant.
+
+I obtained my MS in Computational Analysis and Public Policy at the University of Chicago, where I delved deep into Machine Learning, Natural Language Processing and Cloud Computing. I have worked on a wide variety of projects, including webscraping, supervised and unsupervised ML models, data visualization and process automation. I also have designed the underlying AWS architecture in most of the projects I have worked on. 
 
 Feel free to take a look at my [resume](https://github.com/FedericoDM/FedericoDM/blob/main/Resume_FedericoDominguezMolina.pdf) and to connect with me via [LinkedIn](https://www.linkedin.com/in/federico-dominguez-molina/).
 
 - 🐍: The programming languages I use are: Python, SQL, C and R.
 - ☁️: Cloud Computing Stack: AWS (EC2, Lambda, Route53, SQS).
 - 📊: Other skills: Power BI, Databricks, Elasticsearch.
-- 📖 Currently working on: Natural Language Processing and AWS.
+- 📖 Currently working on: Natural Language Processing, AWS and Network Analysis.
 
 Some of the projects that I have worked on, among others, are:
 
