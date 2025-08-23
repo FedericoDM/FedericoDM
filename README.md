@@ -11,7 +11,7 @@ I obtained my MS in Computational Analysis and Public Policy at the University o
 Feel free to take a look at my [resume](https://github.com/FedericoDM/FedericoDM/blob/main/Resume_FedericoDominguezMolina.pdf) and to connect with me via [LinkedIn](https://www.linkedin.com/in/federico-dominguez-molina/).
 
 - 🐍: The programming languages I use are: Python, SQL, C and R.
-- ☁️: Cloud Computing Stack: AWS (EC2, Lambda, Route53, SQS, AWS Neptne and DynamoDB).
+- ☁️: Cloud Computing Stack: AWS (EC2, Lambda, Route53, SQS, Neptune and DynamoDB).
 - 📊: Other skills: Power BI, Databricks, Elasticsearch.
 - 📖 Currently working on: Natural Language Processing, AWS and Network Analysis.
 
@@ -24,7 +24,7 @@ Some of the projects that I have worked on, among others, are:
 
 You can see some of my work on the following repositories:
 
-1) 🤖  [Twitter user extraction and classification with Python from different cities around the world (Private Repo)](https://github.com/Energy-Lab-Pollution/twitter_search): While at the UChicago Energy and Environment Lab, I have been working on automatically extracting, classifying and building networks for Twitter users from around 50+ cities around the world. The users are classified based on their tweets and their biography using an LLM approach, and we use AWS Neptune to store and analyze the network data.
+1) 🤖  [Twitter user extraction and classification with Python from different cities around the world](https://github.com/Energy-Lab-Pollution/twitter_search): While at the UChicago Energy and Environment Lab, I have been working on automatically extracting, classifying and building networks for Twitter users from around 50+ cities around the world. The users are classified based on their tweets and their biography using an LLM approach, and we use AWS Neptune to store and analyze the network data (_Repository is currently private until further notice_).
 2) 🌲 [Streamlit App to extract CO2 emissions data in real time](https://github.com/City-of-Long-Beach-Public/climate_inventory): I worked with the City of Long Beach (CA) to automate their data extraction process from public websites. As a result, I created a Streamlit app that allows them to select the website they want and the year of interest. They can also download the data into their local computer.    
 3) 💰 [Weekly alert system to manage household expenses via Splitwise's API](https://github.com/FedericoDM/splitwise-household-expenses): In pro of managing better our household's budget and expenses, I created a pipeline that extracts our expenses data from the Splitwise API. Then, every week, we get an e-mail that summarizes our expenses for the current month.
 4) 💬 [Natural Language Processing Analysis of the Mexican's President Daily Conferences](https://github.com/FedericoDM/AMLO-NLP): As part of a class project (and also personal interest), I scraped all of the president's morning conferences and trained a model to assign each conference an 'aggressivity score', based on how hostile he is on the press conference. 
